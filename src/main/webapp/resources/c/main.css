@@ -1,0 +1,52 @@
+td, th{
+    padding: 10px;
+}
+
+.book-list-table, .book-list-table td, .book-list-table th{
+    border: 1px solid black;
+    border-collapse: collapse ;
+}
+
+.content{
+    margin: 50px;
+}
+
+.error{
+    color: red;
+}
+.login-link-container {
+    text-align: right;
+}
+
+#header {
+    background-color: #ffc31b;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:200px;
+    float:left;
+    padding:5px;
+}
+
+#section {
+    width:350px;
+    float:left;
+    padding:10px;
+}
+#section2 {
+    width:350px;
+    float:left;
+    padding:10px;
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}

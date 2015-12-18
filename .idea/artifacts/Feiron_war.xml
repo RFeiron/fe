@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="Feiron:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Feiron.war">
+      <element id="artifact" artifact-name="Feiron:war exploded" />
+    </root>
+  </artifact>
+</component>
